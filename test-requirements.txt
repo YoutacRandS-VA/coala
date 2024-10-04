@@ -25,5 +25,5 @@ requests-mock~=1.2
 ipdb~=0.11
 pip<10
 six>=1.11.0
-wheel~=0.29
+wheel~=0.44
 testfixtures~=5.3.1
